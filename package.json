@@ -1,0 +1,20 @@
+{
+  "name": "parabank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "chrome": "npx playwright test --project=chrome",
+    "safari": "npx playwright test --project=safari",
+    "firefox": "npx playwright test--project=firefox",
+    "debug": "npx playwright test --debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2",
+    "allure-playwright": "^2.0.0-beta.16"
+  }
+}

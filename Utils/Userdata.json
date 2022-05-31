@@ -1,0 +1,58 @@
+[
+    {
+        "testName": "PasswordMismatch",
+        "firstName": "playwright",
+        "lastName": "javascript",
+        "address": "Galli",
+        "city": "Sehar",
+        "state": "Andhra",
+        "zipcode": "123456",
+        "phone": "1234567890",
+        "ssn": "sss-ss-nnnn",
+        "username": "MismatchPassword",
+        "password": "abcde",
+        "repPassword": "abcd"
+    },
+    {
+        "testName": "InvalidFormat",
+        "firstName": "playwrightTool",
+        "lastName": "javascriptandTS",
+        "address": "BakersStreet",
+        "city": "London",
+        "state": "Arizona",
+        "zipcode": "zipcode",
+        "phone": "phoneNumber",
+        "ssn": "sssssnnnnp",
+        "username": "InvalidFormatsAll",
+        "password": "1234",
+        "repPassword": "1234"
+    },
+    {
+        "testName": "PlaywrightNewUser",
+        "firstName": "playwrightTools",
+        "lastName": "javascriptJava",
+        "address": "Chowk",
+        "city": "FranceCity",
+        "state": "Atlanta",
+        "zipcode": "123456",
+        "phone": "1234567890",
+        "ssn": "sss-ss-nnnn",
+        "username": "DemoUserName123",
+        "password": "demopassword",
+        "repPassword": "demopassword"
+    },
+    {
+        "testName": "ExistingUser",
+        "firstName": "playwrightTools",
+        "lastName": "javascriptJava",
+        "address": "Chowk",
+        "city": "FranceCity",
+        "state": "Atlanta",
+        "zipcode": "123456",
+        "phone": "1234567890",
+        "ssn": "sss-ss-nnnn",
+        "username": "DemoUserName123",
+        "password": "demopassword",
+        "repPassword": "demopassword"
+    }
+]
